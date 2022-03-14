@@ -61,6 +61,7 @@ A JavaScript framework that lets you build web UIs, its core concepts are:
 - Vue directives
 - State (data)
 - Methods (default lifecycle hooks)
+> Lifecycle methods are called outside the "methods" object.
 
 ::right::
 
@@ -198,4 +199,4 @@ layout: center
 
 # That's all, questions time!
 
-[Documentation](https://v2.vuejs.org/) · [GitHub](https://github.com/smakosh) · [Twitter](https://twitter.com/smakosh)
+[Documentation](https://v2.vuejs.org/) · [GitHub](https://github.com/smakosh) · [Twitter](https://twitter.com/smakosh) · [Written version](https://smakosh.notion.site/Vue-JS-introduction-d2f826ab7a574eed9a34f7cd01d88fae)
