@@ -162,10 +162,10 @@ export default {
       name: "",
     };
   },
+  created: function (event) {
+    this.name = "created";
+  },
   methods: {
-    created: function (event) {
-      this.name = "created";
-    },
     handleName: function (event) {
       this.name = event.target.value;
     },
